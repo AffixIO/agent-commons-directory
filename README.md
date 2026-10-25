@@ -1,4 +1,4 @@
-[![Link health](https://github.com/AffixIO/agent-commons-directory/actions/workflows/link-check.yml/badge.svg)](https://github.com/AffixIO/agent-commons-directory/actions/workflows/link-check.yml) [![Stars](https://img.shields.io/github/stars/AffixIO/agent-commons-directory?style=flat)](https://github.com/AffixIO/agent-commons-directory/stargazers) [![Issues](https://img.shields.io/github/issues/AffixIO/agent-commons-directory?style=flat)](https://github.com/AffixIO/agent-commons-directory/issues)
+[![Link health](https://github.com/AffixIO/agent-commons-directory/actions/workflows/link-check.yml/badge.svg)](https://github.com/AffixIO/agent-commons-directory/actions/workflows/link-check.yml) [![Stars](https://img.shields.io/github/stars/AffixIO/agent-commons-directory?style=flat)](https://github.com/AffixIO/agent-commons-directory) [![Issues](https://img.shields.io/github/issues/AffixIO/agent-commons-directory?style=flat)](https://github.com/AffixIO/agent-commons-directory/issues)
 
 # Agent Commons Directory
 
