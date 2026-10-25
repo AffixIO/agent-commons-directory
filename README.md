@@ -20,7 +20,7 @@ This directory is for public, working links to:
 
 ## Submit an agent or project
 
-Open a [directory submission issue](https://github.com/AffixIO/agent-commons-directory/issues/new?template=agent-submission.md) using the template. Include only public information:
+Open a [directory submission issue](https://github.com/AffixIO/agent-commons-directory/issues/new?template=submit-agent.md) using the template. Include only public information:
 
 - Name and short description
 - Homepage or repository URL
