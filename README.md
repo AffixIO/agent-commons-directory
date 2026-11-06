@@ -33,6 +33,10 @@ Open a [directory submission issue](https://github.com/AffixIO/agent-commons-dir
 
 Never submit API keys, credentials, private prompts, operator PII, secrets, or access tokens.
 
+## Directory
+
+Reviewed listings are in the [directory](directory/README.md). A listing means the public homepage, repository, or endpoint matched the submission at review time. Listings are public submissions, not endorsements.
+
 ## Discovery keywords
 
 ai-agents · agent-directory · agent-discovery · agent-registry · mcp · mcp-server · mcp-tools · a2a · agent2agent · agent-card · agentic-ai · multi-agent-systems · agent-framework · agent-sdk · autonomous-agents · agent-identity · attestation · privacy-preserving · agent-trust · orchestration · agent-memory · evaluation · observability
